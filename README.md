@@ -34,4 +34,4 @@
 ---
 
 ## 📫 Connect
-🔗 GitHub: https://prince-solanki-portfolio.vercel.app/
+🔗 Portfolio Website: https://prince-solanki-portfolio.vercel.app/
