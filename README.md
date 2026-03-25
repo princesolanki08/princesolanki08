@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Tech Stack
-**Java | JavaScript | SQL | React | Spring Boot | MySQL | HTML | CSS | JavaScript**
+**Java | SQL | React | Spring Boot | MySQL | HTML | CSS | JavaScript**
 
 ---
 
