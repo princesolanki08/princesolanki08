@@ -17,6 +17,7 @@
 ---
 
 ## 📌 Projects
+- 🌐 Web Based Job Portal Application (Java, Spring Boot, React, MySQL)
 - ⚡ Electricity Billing System (Java + SQL)
 - 👨‍💼 Employee Management System (Java)
 - 🌐 Portfolio Website (HTML, CSS, JS)
